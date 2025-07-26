@@ -30,5 +30,3 @@ This project automates the provisioning of a web server on AWS using Terraform. 
 12. **Outputs the public IP address** of the EC2 instance after deployment.
 
 ---
-
-
