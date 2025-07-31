@@ -8,4 +8,4 @@ module "ec2_module" {
   server_name = "Module_server" # Name Of EC2 Server (tags)
 }
 
-# Here We're Calling the module by giving few required parameters (variables) like Source, AMI , Server_name, etc  
+# Here We're Calling the module by giving few required parameters (variables) like Source, AMI , Server_name, etc.   
