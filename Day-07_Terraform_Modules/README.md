@@ -31,4 +31,3 @@ A module is just a **folder with `.tf` files** (like `main.tf`, `variables.tf`, 
 4. Use with **workspaces + tfvars** for large-scale environment separation  
 5. Used in **multi-team organizations** where each team owns one module
 
----
